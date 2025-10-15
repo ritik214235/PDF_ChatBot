@@ -39,7 +39,7 @@ Chatbot Interaction
 Getting Started
 1. Clone the Repository
 
-git clone (git@github.com:ritik214235/PDF_ChatBot.git)
+git clone ([git@github.com:ritik214235/PDF_ChatBot.git](https://github.com/ritik214235/PDF_ChatBot.git))
 
 2. Install Required Libraries
 
